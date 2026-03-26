@@ -114,4 +114,4 @@ public class MyRenderer extends AbstractWireframeRenderer {
 ---
 
 ## License
-[MIT License](./LICENSE)
+[MIT License.](./LICENSE)
