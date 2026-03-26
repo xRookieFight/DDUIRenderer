@@ -29,7 +29,7 @@ repositories {
 }
 
 dependencies {
-    implementation("com.github.xRookieFight:DDUIRenderer:master-SNAPSHOT")
+    implementation("com.github.xRookieFight:DDUIRenderer:latest")
 }
 ```
 
